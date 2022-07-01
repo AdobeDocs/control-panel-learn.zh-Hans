@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 9aab3744b4bee03f78b4d301edc98efd13922647
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 84%
+source-wordcount: '290'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 84%
 Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并执行管理任务，例如按实例管理 SFTP 存储，管理 GPG 密钥或子域和证书。
 
 ## 新增内容
+
+* **[控制面板混合托管模型](/help/control-panel-for-hybrid-hosting-models.md)**
+
+   *了解如何为Adobe Campaign混合托管模型启用控制面板、访问控制面板以及解锁关键功能。*
 
 * **[监测工作流](/help/performance-monitoring/monitor-workflows.md)**
 

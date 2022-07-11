@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -18,19 +18,19 @@ ht-degree: 81%
 
 + [控制面板](/help/control-panel-overview.md)
 + [控制面板入门](/help/get-started-with-control-panel.md)
-+ [控制面板混合托管模型](/help/control-panel-for-hybrid-hosting-models.md)
++ [用于混合托管模型的控制面板](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP 管理 {#sftp-management}
    + [监测服务器容量](/help/sftp-management/monitor-server-capacity.md)
-   + [允许列表IP范围](/help/sftp-management/allowlist-ip-range.md)
+   + [允许列表的 IP 范围](/help/sftp-management/allowlist-ip-range.md)
    + [生成 SSH 密钥](/help/sftp-management/generate-ssh-key.md)
    + [连接到 SFTP 服务器](/help/sftp-management/connect-to-sftp-server.md)
 + 子域和证书 {#subdomains-and-certificates}
    + [完全子域委派](/help/subdomains-and-certificates/subdomain-delegation.md)
    + [使用 CNAME 委派子域](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
-   + [添加SSL证书](/help/subdomains-and-certificates/add-ssl-certificates.md)
+   + [添加 SSL 证书](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Google TXT 记录管理](/help/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
-   + [允许列表IP地址](/help/instance-settings/allowlist-ip-adresses.md)
+   + [允许列表 IP 地址](/help/instance-settings/allowlist-ip-adresses.md)
    + [添加 URL 权限](/help/instance-settings/add-url-permissions.md)
    + GPG 密钥管理 {#gpg-key-management}
       + [GPG 密钥管理 - 概述](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + 性能监测{#performance-monitoring}
    + [监测数据库](/help/performance-monitoring/monitor-databases.md)
    + [监测工作流](/help/performance-monitoring/monitor-workflows.md)
-   + [监控吞吐量和延迟](/help/performance-monitoring/monitor-throughputs-and-latency.md)
-+ [疑难解答控制面板](/help/trouble-shooting.md)
+   + [监测吞吐量和延迟](/help/performance-monitoring/monitor-throughputs-and-latency.md)
++ [控制面板故障排除](/help/trouble-shooting.md)

@@ -10,7 +10,7 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 100%
 
@@ -72,8 +72,8 @@ Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并�
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>连接到 SFTP 服务器</strong>
-    </a>
+    <strong>连接到 SFTP 服务器</strong>
+    </a>
     </div>
     <p>
     <em>了解如何使用您存储在控制面板中的密钥，通过客户端 SFTP 应用程序连接到 SFTP 服务器。</em>

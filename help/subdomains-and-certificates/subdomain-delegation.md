@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 86%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,6 +35,6 @@ Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*子域委派（05:07 分钟）*
+*子域委派（5 分 7 秒）*
 
 有关续订子域的SSL证书的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hans).

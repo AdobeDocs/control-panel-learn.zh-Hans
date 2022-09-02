@@ -1,5 +1,5 @@
 ---
-title: 允许列表IP地址
+title: 允许列表 IP 地址
 description: 了解如何向Adobe Campaign实例的添加IP范允许列表围，以及如何使用控制面板从允许列表中删除它们。
 feature: Control Panel
 kt: 3479
@@ -13,11 +13,11 @@ exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 59%
+ht-degree: 62%
 
 ---
 
-# 允许列表IP地址
+# 允许列表 IP 地址
 
 控制面板允许您通过将 IP 地址范围列入允许列表来设置与实例的新连接。默认情况下，无法从各种 IP 地址访问 Adobe Campaign 实例。因此，必须IP地列入允许列表址：
 

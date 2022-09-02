@@ -13,7 +13,7 @@ exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 38%
+ht-degree: 58%
 
 ---
 
@@ -48,9 +48,9 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 >
 >对CSR生成过程进行了多项增强：
 >
->* 现在，在生成CSR时，您可以选择其中一个包含的子域作为通用名称。
->* 现在，您可以在生成CSR之前复制CSR摘要。
->* 生成CSR后，您可以从作业日志中再次下载它。 此功能不适用于在此版本之前生成的证书。
+>* 现在，在生成 CSR 时，您可以选择其中一个包含的子域作为通用名称。
+>* 现在，您可以在生成 CSR 之前复制 CSR 摘要。
+>* 生成 CSR 后，您可以从作业日志中再次下载它。此功能不适用于在此版本之前生成的证书。
 >
 >![下载CSR](/help/assets/download-csr.gif)
 >

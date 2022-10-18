@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
-source-wordcount: '290'
+source-git-commit: f6eefe5c95532c38d32275070416b960b208ad10
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 100%
 # 控制面板 - 概述
 
 Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并执行管理任务，例如按实例管理 SFTP 存储，管理 GPG 密钥或子域和证书。
+
+<div id="whats-new-section">
 
 ## 新增内容
 
@@ -35,6 +37,17 @@ Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并�
    *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
 请参阅[发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hans)，获取有关最新产品版本的更多信息。
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 员工精选
 
@@ -81,6 +94,8 @@ Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并�
   </td>
 </tr>
 </table>
+
+</div>
 
 ## 其他资源
 

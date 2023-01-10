@@ -49,7 +49,7 @@ Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并�
 
 <div id="staff-picks-section">
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>

@@ -11,7 +11,7 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 49e2dae4-f583-40c3-b388-5333932f5084
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 43%
@@ -24,6 +24,6 @@ ht-degree: 43%
 
 了解如何使用 [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
 
 有关数据库监控的详细信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).

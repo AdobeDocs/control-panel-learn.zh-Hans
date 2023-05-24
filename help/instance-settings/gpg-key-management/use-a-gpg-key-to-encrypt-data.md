@@ -19,7 +19,7 @@ ht-degree: 63%
 
 # 使用 GPG 密钥加密数据
 
-瞭解如何使用安裝於控制面板的GPG金鑰匯出資料
+了解如何使用控制面板上安装的GPG密钥导出数据
 
 ## Adobe Campaign Standard
 

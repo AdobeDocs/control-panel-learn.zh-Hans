@@ -20,10 +20,10 @@ ht-degree: 43%
 
 # 监测数据库
 
-您的 Campaign 实例的所有资源、工作流程和数据都存储在数据库中。若資料庫達到其最大容量，可能會導致您的執行個體發生問題（無法登入、傳送電子郵件等）。 因此，必须定期监测实例的数据库以确保最佳性能。
+您的 Campaign 实例的所有资源、工作流程和数据都存储在数据库中。数据库达到最大容量可能会导致实例出现问题（无法登录、无法发送电子邮件等）。 因此，必须定期监测实例的数据库以确保最佳性能。
 
-瞭解如何透過監控執行個體的資料庫使用情況 [!DNL Control Panel].
+了解如何使用监控实例的数据库使用情况 [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
 
-如需資料庫監控的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
+有关数据库监视的详细信息，请参见 [产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).

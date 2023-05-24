@@ -1,6 +1,6 @@
 ---
 title: 允许列表 IP 地址
-description: 瞭解如何將IP範圍新增至Adobe Campaign執行個體的允許清單，以及如何使用控制面板從允許清單中移除這些IP範圍。
+description: 了解如何将IP范围添加到Adobe Campaign实例的，以及如何使用控制面板从允许列表允许列表实例的中删除它们。
 feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
@@ -19,7 +19,7 @@ ht-degree: 62%
 
 # 允许列表 IP 地址
 
-控制面板允许您通过将 IP 地址范围列入允许列表来设置与实例的新连接。默认情况下，无法从各种 IP 地址访问 Adobe Campaign 实例。因此，必須將IP位址加入允許清單：
+控制面板允许您通过将 IP 地址范围列入允许列表来设置与实例的新连接。默认情况下，无法从各种 IP 地址访问 Adobe Campaign 实例。因此，必须列入允许列表IP地址：
 
 * 允许从此 IP 地址访问 [!DNL Campaign] 实例
 * 将 API 连接到消息中心或营销实例
@@ -34,8 +34,8 @@ ht-degree: 62%
 
 ## 将 IP 范围添加到允许列表
 
-瞭解如何將IP範圍新增至Adobe Campaign執行個體的允許清單，以及如何使用控制面板從允許清單中移除這些IP範圍。
+了解如何将IP范围添加到Adobe Campaign实例的，以及如何使用控制面板从允许列表允许列表实例的中删除它们。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12&learn=0n)
 
-如需IP的詳細資訊，允許清單，請參閱 [詳細的產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hans).
+有关IP地址允许列表的详细信息，请参阅 [详细的产品文档](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hans).

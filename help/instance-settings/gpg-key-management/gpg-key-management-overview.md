@@ -1,6 +1,6 @@
 ---
 title: GPG 密钥管理 - 概述
-description: 了解如何在指定的  [!DNL Campaign]  实例上生成并安装公钥/私钥对，以加密出站数据。了解如何在 [!DNL Campaign] 用于解密入站数据的实例。
+description: 了解如何在指定的  [!DNL Campaign]  实例上生成并安装公钥/私钥对，以加密出站数据。瞭解如何在上匯入和安裝公開金鑰 [!DNL Campaign] 用於解密傳入資料的例項。
 feature: Control Panel
 team: TM
 role: Admin
@@ -15,7 +15,7 @@ ht-degree: 73%
 
 # GPG 密钥管理 - 概述
 
-GPG (GnuPG) 使用非对称的单个密钥对加密消息。要使用 [!DNL Campaign] 实施 GPG 加密，管理员用户必须直接从控制面板在营销实例上安装和/或生成 GPG 密钥。了解如何在指定的 [!DNL Campaign] 实例上生成并安装公钥/私钥对，以加密出站数据。了解如何在 [!DNL Campaign] 用于解密入站数据的实例。
+GPG (GnuPG) 使用非对称的单个密钥对加密消息。要使用 [!DNL Campaign] 实施 GPG 加密，管理员用户必须直接从控制面板在营销实例上安装和/或生成 GPG 密钥。了解如何在指定的 [!DNL Campaign] 实例上生成并安装公钥/私钥对，以加密出站数据。瞭解如何在上匯入和安裝公開金鑰 [!DNL Campaign] 用於解密傳入資料的例項。
 
 * [生成和安装用于数据加密的 GPG 密钥](./generate-and-install-gpg-keys-for-data-encryption.md)
 * [使用 GPG 密钥加密数据](./use-a-gpg-key-to-encrypt-data.md)

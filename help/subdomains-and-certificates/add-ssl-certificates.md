@@ -1,6 +1,6 @@
 ---
-title: 添加SSL证书
-description: 了解如何添加SSL证书以保护子域。
+title: 新增SSL憑證
+description: 瞭解如何新增SSL憑證以保護您的子網域。
 feature: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
@@ -17,7 +17,7 @@ ht-degree: 58%
 
 ---
 
-# 添加SSL证书
+# 新增SSL憑證
 
 Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子域。
 
@@ -36,7 +36,7 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 
 ### 1. 生成证书签名请求
 
-购买SSL证书需要证书签名请求(CSR)。 必须为您计划保护的实例和子域生成该子域。
+購買SSL憑證需要憑證簽署要求(CSR)。 必須為您打算保護的執行個體和子網域產生它。
 
 以下视频介绍如何在控制面板中生成证书签名请求。
 
@@ -46,23 +46,23 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 
 >[!NOTE]
 >
->对CSR生成过程进行了多项增强：
+>CSR產生程式已進行幾項增強：
 >
 >* 现在，在生成 CSR 时，您可以选择其中一个包含的子域作为通用名称。
 >* 现在，您可以在生成 CSR 之前复制 CSR 摘要。
 >* 生成 CSR 后，您可以从作业日志中再次下载它。此功能不适用于在此版本之前生成的证书。
 >
->![下载CSR](/help/assets/download-csr.gif)
+>![下載CSR](/help/assets/download-csr.gif)
 >
->请参阅 [产品文档](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 以了解更多。
+>請參閱 [產品檔案](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) 以深入瞭解。
 
 ### 2. 购买 SSL 证书
 
-获取CSR后，您必须从贵组织批准的证书颁发机构购买SSL证书。
+取得CSR後，您必須向貴組織核准的憑證機構購買SSL憑證。
 
 ### 3. 安装 SSL 证书
 
-获得SSL证书后，必须为您计划保护的子域安装该证书。
+取得SSL憑證後，必須為您計畫保護的子網域安裝該憑證。
 
 以下视频介绍如何在 [!UICONTROL Control Panel]中安装 SSL 证书。
 

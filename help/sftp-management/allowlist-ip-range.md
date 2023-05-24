@@ -1,6 +1,6 @@
 ---
-title: 允许列表IP范围
-description: 了解如何向添加IP地址范允许列表围。
+title: 將IP範圍列入允許清單
+description: 瞭解如何將IP位址範圍新增至允許清單。
 feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# 允许列表IP范围
+# 將IP範圍列入允許清單
 
-要通过客户端应用程序或API连接到服务器，您必须设置公共SSH密钥，并将连接到SFTP服务器的IP地址添加到该允许列表。
+若要透過使用者端應用程式或API連線至伺服器，您必須設定公開SSH金鑰，並將連線至SFTP伺服器的IP位址新增至允許清單。
 
-了解如何向添加IP地址范允许列表围。
+瞭解如何將IP位址範圍新增至允許清單。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12&learn=0n)

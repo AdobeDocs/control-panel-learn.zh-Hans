@@ -2,7 +2,7 @@
 title: 连接到 SFTP 服务器
 description: 了解如何使用您存储在控制面板中的密钥，通过客户端 SFTP 应用程序连接到 SFTP 服务器。
 feature: Control Panel
-kt: 2924
+jira: KT-2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
 
-   或者
+  或者
 * 直接从 URL 访问：[http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## 如何连接到 SFTP 服务器

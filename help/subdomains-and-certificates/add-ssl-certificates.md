@@ -2,7 +2,7 @@
 title: 添加 SSL 证书
 description: 了解如何添加 SSL 证书以保护子域。
 feature: Control Panel
-kt: 4219
+jira: KT-4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '269'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card
 
-   或者
+  或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 添加 SSL 证书的步骤
@@ -55,6 +55,7 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 >![下载 CSR](/help/assets/download-csr.gif)
 >
 >请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=zh-Hans)以了解更多信息。
+>
 
 ### 2. 购买 SSL 证书
 

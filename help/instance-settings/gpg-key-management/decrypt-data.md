@@ -2,7 +2,7 @@
 title: 解密数据
 description: 以下视频介绍如何创建公钥并将其导入和安装在 Campaign 实例上以进行数据解密。
 feature: Control Panel
-kt: 5543
+jira: KT-5543
 thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 51de34f4-5480-459b-b8b6-6637c7bd3b89
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 94%

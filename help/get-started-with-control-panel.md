@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 98%
 
 ---
 
@@ -48,14 +48,14 @@ ht-degree: 100%
 
 以下视频介绍了可以查看实例[!DNL IMS org ID]的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### 管理员权限
 
 需要管理员权限才能访问 [!UICONTROL Control Panel]。
 以下视频介绍如何向 Campaign 实例添加管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [了解更多](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hans#discover-control-panel)有关管理权限的信息。
 

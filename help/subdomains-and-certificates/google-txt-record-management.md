@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-source-git-commit: af05bde1295913c93388dd014462e32afb081669
+source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 98%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何通过 [!UICONTROL Campaign Control Panel]将 [!UICONTROL Google TXT] 网站验证记录添加到用于向 [!DNL GMAIL] 地址发送电子邮件的子域。
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}

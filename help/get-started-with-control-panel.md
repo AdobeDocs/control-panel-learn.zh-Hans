@@ -13,28 +13,28 @@ recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 98%
+source-wordcount: '222'
+ht-degree: 87%
 
 ---
 
-# [!UICONTROL Control Panel] 入门 {#control-panel}
+# [!UICONTROL  入门控制面板] {#control-panel}
 
 >[!CAUTION]
 > 对于 Campaign v7，部署限制适用。 [了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)
 
-通过使用 [!UICONTROL Control Panel]，Adobe Campaign 管理员可监视关键资产并执行管理任务，例如按实例管理 [!DNL SFTP] 存储，管理 [!DNL GPG] 密钥，或 [!UICONTROL subdomains] 子域和 [!UICONTROL certificates] 证书。
+[!UICONTROL 控制面板] 可让Adobe Campaign管理员监控关键资源并执行管理任务，如管理 [!DNL SFTP] 按实例存储，管理 [!DNL GPG] 键，或 [!UICONTROL 子域] 和 [!UICONTROL 证书].
 
 本文介绍如何访问控制面板以及使用控制面板的先决条件。
 
-## 访问 [!UICONTROL Control Panel]
+## 访问[!UICONTROL 控制面板]
 
 要访问控制面板，请转至 Experience Cloud 主页：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com)：
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+* **[!UICONTROL Experience Cloud 主页]** > **[!UICONTROL 快速访问]**
 
   或者
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]card**
+* **[!UICONTROL Experience Cloud 主页]** > [!UICONTROL 解决方案选择器]：**Campaign** > **[!UICONTROL 控制面板]信息卡**
 
   或者
 
@@ -52,8 +52,8 @@ ht-degree: 98%
 
 ### 管理员权限
 
-需要管理员权限才能访问 [!UICONTROL Control Panel]。
-以下视频介绍如何向 Campaign 实例添加管理员
+需要有管理员权限才能访问[!UICONTROL 控制面板]。
+以下视频介绍了如何向 Campaign 实例添加管理员
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 

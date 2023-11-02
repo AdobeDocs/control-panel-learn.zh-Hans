@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 98%
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
@@ -28,8 +28,8 @@ ht-degree: 98%
 
 要在控制面板中访问子域管理，请转到：
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
-或者
+* [Experience Cloud 主页](https://experience.adobe.com/#/home) > 解决方案选择器：**[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡 > **实例设置**信息卡
+或
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## 将 IP 范围添加到允许列表

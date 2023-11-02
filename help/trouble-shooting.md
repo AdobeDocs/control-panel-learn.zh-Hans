@@ -11,12 +11,12 @@ level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 98%
+source-wordcount: '336'
+ht-degree: 100%
 
 ---
 
-# 故障排除 [!UICONTROL Control Panel]
+# 对[!UICONTROL 控制面板]进行故障排除
 
 ## 登录和主页
 
@@ -25,7 +25,7 @@ ht-degree: 98%
 **要做什么：**
 用户须找到其 IMS Org ID (xxx)。管理员须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
-### 症状：Experience Cloud 主页中访问 [!UICONTROL Control Panel] 的链接不显示给用户
+### 症状：Experience Cloud 主页中的用于访问[!UICONTROL 控制面板]的链接未向某个用户显示
 
 **原因：**
 用户只有在被添加为产品用户档案 _Campaign-xxx-Administrators/Admin_ 中的用户后，才会看到这些链接。
@@ -33,7 +33,7 @@ ht-degree: 98%
 **要做什么：**
 管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
-### 症状：实例未列在 [!UICONTROL Control Panel] 中
+### 症状：实例未在[!UICONTROL 控制面板]中列出
 
 **原因：**
 最可能的原因是，对于缺少的实例，须将用户在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中添加为&#x200B;*用户*
@@ -49,18 +49,18 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*如何将管理员在产品用户档案中添加为管理员，以便能够使用[!UICONTROL Control panel]（1 分 3 秒）*
+*如何将管理员添加到产品用户档案管理员中，以便能够使用[!UICONTROL 控制面板]（01:03 分）*
 
 ### 帮助文档
 
 * [了解控制面板](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
-* [管理 [!UICONTROL Control Panel]的权限](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
+* [管理权限[!UICONTROL （控制面板）]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
 
 ## 建立与 SFTP 服务器（客户端或 API）的连接
 
 连接到 SFTP 服务器需要：
 
-* [!UICONTROL Allow listing] 您连接到 SFTP 服务器的 IP 地址
+* [!UICONTROL 将]您连接到 SFTP 服务器时的 IP 地址添加到允许列表
 * 须在 Adobe Campaign 中注册的私钥/公钥对
 * 要直接连接到 SFTP 服务器，您还需要有 SFTP 客户端软件
 

@@ -11,16 +11,16 @@ role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Google TXT 记录管理]
+# [!UICONTROL Google TXT 记录]管理
 
 为了保证高收件箱率和低垃圾邮件率，一些诸如 Google 之类的服务要求您将 TXT 记录添加到域设置，以验证您是否拥有该域。TXT 记录是一种 DNS 记录类型，用于提供有关域的文本信息，外部源可以读取该信息。
 
-了解如何添加 [!UICONTROL GOOGLE TXT] 将网站验证记录发送到所有用于发送电子邮件的子域 [!DNL GMAIL] 地址为 [!UICONTROL 营销活动控制面板].
+了解如何将 [!UICONTROL Google TXT] 站点验证记录添加到所有子域，这些子域用于通过 [!UICONTROL Campaign 控制面板]向 [!DNL GMAIL] 地址发送电子邮件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}

@@ -11,21 +11,21 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # 添加 SSL 证书
 
-Adobe Campaign [!UICONTROL 控制面板] 用于添加SSL证书以保护子域。
+Adobe Campaign [!UICONTROL 控制面板]允许您添加 SSL 证书以保护子域。
 
 ## 访问控制面板子域管理
 
 要在控制面板中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选择器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]** 信息卡> **[!UICONTROL 子域和证书]** 信息卡
+* [Experience Cloud 主页](https://experience.adobe.com/#/home) > 解决方案选择器：**[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡 > **[!UICONTROL 子域和证书]**&#x200B;信息卡
 
   或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -65,10 +65,10 @@ Adobe Campaign [!UICONTROL 控制面板] 用于添加SSL证书以保护子域。
 
 获得 SSL 证书后，必须为您计划保护的子域安装该证书。
 
-以下视频介绍如何在中安装SSL证书 [!UICONTROL 控制面板].
+以下视频介绍如何在[!UICONTROL 控制面板]中安装 SSL 证书。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
-*安装 SSL 证书（01:25 分钟）*
+*安装 SSL 证书（1 分 25 秒）*
 
 

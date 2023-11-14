@@ -12,9 +12,9 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 87%
 >[!CAUTION]
 > 对于 Campaign v7，部署限制适用。 [了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)
 
-[!UICONTROL 控制面板] 可让Adobe Campaign管理员监控关键资源并执行管理任务，如管理 [!DNL SFTP] 按实例存储，管理 [!DNL GPG] 键，或 [!UICONTROL 子域] 和 [!UICONTROL 证书].
+通过使用[!UICONTROL 控制面板]，Adobe Campaign 管理员可监控关键资产并执行管理任务，例如按实例管理 [!DNL SFTP] 存储，管理 [!DNL GPG] 密钥，或[!UICONTROL 子域]和[!UICONTROL 证书]。
 
 本文介绍如何访问控制面板以及使用控制面板的先决条件。
 

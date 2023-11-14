@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
 
-有关详细信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
+有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=zh-Hans)。

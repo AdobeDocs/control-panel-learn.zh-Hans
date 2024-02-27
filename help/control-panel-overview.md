@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
+source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,23 +20,6 @@ ht-degree: 100%
 # 控制面板 - 概述
 
 Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并执行管理任务，例如按实例管理 SFTP 存储，管理 GPG 密钥或子域和证书。
-
-<div id="whats-new-section">
-
-## 新增内容
-
-* **[适用于混合托管模型的控制面板](/help/control-panel-for-hybrid-hosting-models.md)**
-  *了解如何为 Adobe Campaign 混合托管模型启用控制面板、访问控制面板以及解锁关键功能。*
-
-* **[监测工作流](/help/performance-monitoring/monitor-workflows.md)**
-  *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
-
-* **[监测吞吐量和延迟](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-  *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
-
-请参阅[发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hans)，获取有关最新产品版本的更多信息。
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

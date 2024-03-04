@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Campaign控制面板教程
+user-guide-title: Adobe Campaign 控制面板教程
 user-guide-description: 了解如何在控制面板中监测您的 Adobe Campaign 实例的关键资源和执行管理任务。
 breadcrumb-title: 控制面板教程
 index: true
@@ -8,10 +8,10 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
+source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 89%
+ht-degree: 95%
 
 ---
 

@@ -12,13 +12,13 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '222'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '193'
+ht-degree: 97%
 
 ---
 
-# [!UICONTROL  入门控制面板] {#control-panel}
+# 开始使用[!UICONTROL 控制面板] {#control-panel}
 
 >[!CAUTION]
 > 对于 Campaign v7，部署限制适用。 [了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)

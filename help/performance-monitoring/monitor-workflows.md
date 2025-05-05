@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/344309/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411084/?learn=on&captions=chi_hans){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=zh-Hans)和[工作流最佳实践](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=zh-Hans)。

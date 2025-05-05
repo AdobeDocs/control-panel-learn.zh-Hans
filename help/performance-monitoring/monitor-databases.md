@@ -24,6 +24,6 @@ ht-degree: 100%
 
 了解如何使用[!DNL Control Panel]监控实例的数据库使用情况。
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448850?learn=on&captions=chi_hans){transcript=true}
 
 有关数据库监控的详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=zh-Hans)。

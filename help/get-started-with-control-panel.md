@@ -48,14 +48,14 @@ ht-degree: 97%
 
 以下视频介绍了可以查看实例[!DNL IMS org ID]的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34927?learn=on&captions=chi_hans){transcript=true}
 
 ### 管理员权限
 
 需要有管理员权限才能访问[!UICONTROL 控制面板]。
 以下视频介绍了如何向 Campaign 实例添加管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34761?learn=on&captions=chi_hans){transcript=true}
 
 [了解更多](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hans#discover-control-panel)有关管理权限的信息。
 

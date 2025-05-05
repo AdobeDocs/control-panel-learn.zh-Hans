@@ -36,6 +36,6 @@ ht-degree: 100%
 
 了解如何将 IP 范围添加到 Adobe Campaign 实例允许列表，以及如何使用控制面板从允许列表中将其删除。
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31662?learn=on&captions=chi_hans){transcript=true}
 
 有关 IP 地址及允许列表的详细信息，请参阅[详细的产品文档](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hans)。

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解如何为 Adobe Campaign 混合托管模型启用控制面板、访问控制面板以及解锁关键功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411072?learn=on&captions=chi_hans){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=zh-Hans)。

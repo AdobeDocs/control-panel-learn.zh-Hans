@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444747/?learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

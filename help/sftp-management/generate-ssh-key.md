@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解如何使用终端生成 SSH 密钥，以及如何在控制面板中存储该密钥的公共版本。
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34760?learn=on&captions=chi_hans){transcript=true}

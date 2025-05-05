@@ -43,11 +43,11 @@ ht-degree: 100%
 
 ### 实用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34927?learn=on&captions=chi_hans){transcript=true}
 
 *查找 IMS 组织 ID（26 秒）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34761?learn=on&captions=chi_hans){transcript=true}
 
 *如何将管理员添加到产品用户档案管理员中，以便能够使用[!UICONTROL 控制面板]（01:03 分）*
 

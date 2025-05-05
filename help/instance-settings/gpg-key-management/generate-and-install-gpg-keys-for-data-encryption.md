@@ -21,4 +21,4 @@ ht-degree: 100%
 
 控制面板允许您加密从 Adobe Campaign 实例中传出的数据。了解如何在指定的 [!DNL Campaign] 实例上生成并安装公钥/私钥对，以加密出站数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327881?learn=on&captions=chi_hans){transcript=true}

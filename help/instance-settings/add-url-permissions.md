@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解如何从 [!DNL Adobe Campaign] 实例建立与外部 URL 的连接。
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34309?learn=on&captions=chi_hans){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=zh-Hans)。

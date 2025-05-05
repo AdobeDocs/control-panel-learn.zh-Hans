@@ -38,4 +38,4 @@ ht-degree: 100%
 
 此视频介绍如何使用您存储在控制面板中的密钥，通过客户端 SFTP 应用程序连接到 SFTP 服务器。
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34759?learn=on&captions=chi_hans){transcript=true}

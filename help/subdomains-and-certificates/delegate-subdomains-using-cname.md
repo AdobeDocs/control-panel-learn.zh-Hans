@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何使用控制面板中的 CNAME 设置和提交子域。
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450134?learn=on&captions=chi_hans){transcript=true}

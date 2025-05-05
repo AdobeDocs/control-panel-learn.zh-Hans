@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何将 [!UICONTROL Google TXT] 站点验证记录添加到所有子域，这些子域用于通过 [!UICONTROL Campaign 控制面板]向 [!DNL GMAIL] 地址发送电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36817?learn=on&captions=chi_hans){transcript=true}

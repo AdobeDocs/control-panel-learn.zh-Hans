@@ -24,8 +24,8 @@ ht-degree: 100%
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41352?learn=on&captions=chi_hans){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41362?learn=on&captions=chi_hans){transcript=true}

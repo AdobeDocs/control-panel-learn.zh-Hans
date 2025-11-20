@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -34,12 +34,12 @@ ht-degree: 100%
 + 实例设置 {#instance-settings}
    + [允许列表 IP 地址](/help/instance-settings/allowlist-ip-adresses.md)
    + [添加 URL 权限](/help/instance-settings/add-url-permissions.md)
-   + GPG 密钥管理 {#gpg-key-management}
+   + GPG密钥管理 {#gpg-key-management}
       + [GPG 密钥管理 - 概述](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [生成和安装用于数据加密的 GPG 密钥](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [使用 GPG 密钥加密数据](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [解密数据](/help/instance-settings/gpg-key-management/decrypt-data.md)
-+ 性能监测{#performance-monitoring}
++ 性能监控 {#performance-monitoring}
    + [监测数据库](/help/performance-monitoring/monitor-databases.md)
    + [监测工作流](/help/performance-monitoring/monitor-workflows.md)
    + [监测吞吐量和延迟](/help/performance-monitoring/monitor-throughputs-and-latency.md)

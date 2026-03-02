@@ -29,4 +29,4 @@ ht-degree: 71%
 * [关于吞吐量和延迟监测的控制面板文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=zh-Hans#)
 * [OOTB投放仪表板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=zh-Hans)
 * [OOTB访问事务性消息报告（仅限Campaign v7）](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=zh-Hans)
-* [投放最佳实践](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [投放最佳实践](https://experienceleague.adobe.com/zh-hans/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)

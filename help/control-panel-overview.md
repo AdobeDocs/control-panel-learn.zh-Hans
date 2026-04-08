@@ -12,8 +12,8 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: b84945a1afa1068bdb58947cd14f75d0ec29a0b1
-workflow-type: tm+mt
-source-wordcount: '219'
+workflow-type: ht
+source-wordcount: '229'
 ht-degree: 100%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>了解如何可将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。</em>
+    <em>了解如何将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。</em>
     <p>
   </td>
   <td>

@@ -10,8 +10,8 @@ role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '317'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -23,38 +23,38 @@ ht-degree: 100%
 ### 症状：无法登录 Experience Cloud
 
 **要做什么：**
-用户须找到其 IMS Org ID (xxx)。管理员须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+用户须找到其 IMS Org ID (xxx)。 管理员须将用户添加到要管理的每个实例的产品配置文件“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：Experience Cloud 主页中的用于访问[!UICONTROL 控制面板]的链接未向某个用户显示
 
 **原因：**
-用户只有在被添加为产品用户档案 _Campaign-xxx-Administrators/Admin_ 中的用户后，才会看到这些链接。
+用户只有在被添加为产品配置文件 _Campaign-xxx-Administrators/Admin_ 中的用户后，才会看到这些链接。
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+管理员须将用户添加到要管理的每个实例的产品配置文件 _Campaign-xxx-Admins_ 中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：实例未在[!UICONTROL 控制面板]中列出
 
 **原因：**
-最可能的原因是，对于缺少的实例，须将用户在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中添加为&#x200B;*用户*
+最可能的原因是，对于缺少的实例，须将用户在产品配置文件 _Campaign-xxx-Administrators/Admin_ 中添加为&#x200B;*用户*
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们须将自己添加为“用户”。
+管理员须将用户添加到要管理的每个实例的产品配置文件 _Campaign-xxx-Admins_ 中。 如果用户是所有实例的管理员，他们须将自己添加为“用户”。
 
 ### 实用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/34927?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*查找 IMS 组织 ID（26 秒）*
+*检查 IMS 组织 ID（00:26 分钟）*
 
->[!VIDEO](https://video.tv.adobe.com/v/34761?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*如何将管理员添加到产品用户档案管理员中，以便能够使用[!UICONTROL 控制面板]（01:03 分）*
+*如何向产品配置文件管理员添加管理员，以便能够使用[!UICONTROL 控制面板]（01:03 分钟）*
 
 ### 帮助文档
 
 * [了解控制面板](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
-* [管理权限[!UICONTROL （控制面板）]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
+* [管理[!UICONTROL 控制面板]的使用权限](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
 
 ## 建立与 SFTP 服务器（客户端或 API）的连接
 

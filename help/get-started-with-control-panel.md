@@ -12,16 +12,16 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '228'
+ht-degree: 100%
 
 ---
 
-# 开始使用[!UICONTROL 控制面板] {#control-panel}
+# [!UICONTROL 控制面板]入门 {#control-panel}
 
 >[!CAUTION]
-> 对于 Campaign v7，部署限制适用。 [了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)
+> 对于 Campaign v7，部署限制适用。[了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)
 
 通过使用[!UICONTROL 控制面板]，Adobe Campaign 管理员可监控关键资产并执行管理任务，例如按实例管理 [!DNL SFTP] 存储，管理 [!DNL GPG] 密钥，或[!UICONTROL 子域]和[!UICONTROL 证书]。
 
@@ -48,14 +48,14 @@ ht-degree: 97%
 
 以下视频介绍了可以查看实例[!DNL IMS org ID]的位置。
 
->[!VIDEO](https://video.tv.adobe.com/v/34927?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
 ### 管理员权限
 
 需要有管理员权限才能访问[!UICONTROL 控制面板]。
 以下视频介绍了如何向 Campaign 实例添加管理员
 
->[!VIDEO](https://video.tv.adobe.com/v/34761?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
 [了解更多](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hans#discover-control-panel)有关管理权限的信息。
 

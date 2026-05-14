@@ -39,6 +39,6 @@ Adobe Campaign [!UICONTROL 控制面板]允许您将子域完全委派给 Adobe 
 
 以下视频演示如何委派子域。
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430247?captions=chi_hans&learn=on){transcript=true}
 
 有关续订子域 SSL 证书的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=zh-Hans)。

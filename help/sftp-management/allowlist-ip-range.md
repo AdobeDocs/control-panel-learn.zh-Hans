@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何将 IP 地址范围添加到允许列表。
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444646?captions=chi_hans&learn=on){transcript=true}

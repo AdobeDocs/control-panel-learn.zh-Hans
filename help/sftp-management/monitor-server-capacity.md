@@ -40,4 +40,4 @@ ht-degree: 100%
 
 了解如何监测 SFTP 服务器的存储容量。
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329490?captions=chi_hans&learn=on){transcript=true}

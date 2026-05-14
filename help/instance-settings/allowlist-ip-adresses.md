@@ -11,8 +11,10 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 TQID: https://experienceleague.adobe.com/86clW-Yx8dYHVgCQUo3eIWiZTckuD1zlVr-AcMbpUgs
-product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
 source-wordcount: 189
@@ -31,7 +33,7 @@ ht-degree: 94%
 
 要在控制面板中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选择器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡> **实例设置**信息卡
+* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选择器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡> **实例设置**&#x200B;信息卡
 或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 

@@ -9,10 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '353'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 353
+ht-degree: 70%
 
 ---
 
@@ -23,23 +28,23 @@ ht-degree: 100%
 ### 症状：无法登录 Experience Cloud
 
 **要做什么：**
-用户须找到其 IMS Org ID (xxx)。 管理员须将用户添加到要管理的每个实例的产品配置文件“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+用户必须找到其IMS Org ID (xxx)。 管理员须将用户添加到要管理的每个实例的产品配置文件“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：Experience Cloud 主页中的用于访问[!UICONTROL 控制面板]的链接未向某个用户显示
 
 **原因：**
-用户只有在被添加为产品配置文件 _Campaign-xxx-Administrators/Admin_ 中的用户后，才会看到这些链接。
+用户只有在被添加为产品配置文件_Campaign-xxx-Administrators/Admin_&#x200B;中的用户后，才会看到这些链接。
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品配置文件 _Campaign-xxx-Admins_ 中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+管理员必须将该用户添加到要管理的每个实例的产品用户档案_Campaign-xxx-Admins_&#x200B;中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：实例未在[!UICONTROL 控制面板]中列出
 
 **原因：**
-最可能的原因是，对于缺少的实例，须将用户在产品配置文件 _Campaign-xxx-Administrators/Admin_ 中添加为&#x200B;*用户*
+对于缺少的实例，最可能的用户必须添加为*用户*&#x200B;产品配置文件&#x200B;_Campaign-xxx-Administrators/Admin_
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品配置文件 _Campaign-xxx-Admins_ 中。 如果用户是所有实例的管理员，他们须将自己添加为“用户”。
+管理员必须将该用户添加到要管理的每个实例的产品用户档案_Campaign-xxx-Admins_&#x200B;中。 如果用户是所有实例的管理员，他们须将自己添加为“用户”。
 
 ### 实用视频
 

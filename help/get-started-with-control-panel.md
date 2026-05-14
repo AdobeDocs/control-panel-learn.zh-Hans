@@ -11,9 +11,14 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 976d97d7-9bdf-4eab-b95a-7df2e9e5787e
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: ht
-source-wordcount: '228'
+TQID: https://experienceleague.adobe.com/145PllmtzuWqb96oCDy4wW27SdVSWU8tV4pT3xXUO04
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+workflow-type: tm+mt
+source-wordcount: 228
 ht-degree: 100%
 
 ---
@@ -21,7 +26,7 @@ ht-degree: 100%
 # [!UICONTROL 控制面板]入门 {#control-panel}
 
 >[!CAUTION]
-> 对于 Campaign v7，部署限制适用。[了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)
+> 对于 Campaign v7，部署限制适用。 [了解详情](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=zh-Hans#v7-restrictions)
 
 通过使用[!UICONTROL 控制面板]，Adobe Campaign 管理员可监控关键资产并执行管理任务，例如按实例管理 [!DNL SFTP] 存储，管理 [!DNL GPG] 密钥，或[!UICONTROL 子域]和[!UICONTROL 证书]。
 

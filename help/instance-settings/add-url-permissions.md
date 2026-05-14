@@ -10,9 +10,14 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
-source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
+TQID: https://experienceleague.adobe.com/88VJByEmAeIHXGQ61-v1-BHYkWVz9JuqQPPkGKpCuHM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: 52
 ht-degree: 100%
 
 ---
@@ -21,6 +26,6 @@ ht-degree: 100%
 
 了解如何从 [!DNL Adobe Campaign] 实例建立与外部 URL 的连接。
 
->[!VIDEO](https://video.tv.adobe.com/v/34309?learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34309?captions=chi_hans&learn=on){transcript=true}
 
 有关更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=zh-Hans)。

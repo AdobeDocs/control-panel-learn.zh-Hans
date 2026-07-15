@@ -12,14 +12,12 @@ level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,9 +44,7 @@ ht-degree: 93%
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>将子域委派到Adobe Campaign（视频）</strong>
-    </a>
-    </div>
+    <strong>将子域委派到 Adobe Campaign（视频）</strong></div>
     <p>
     <em>了解如何将子域完全委派给 Adobe Campaign。</em>
     <p>
@@ -59,11 +55,9 @@ ht-degree: 93%
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT记录管理（视频）</strong>
-    </a>
-    </div>
+    <strong>Google TXT 记录管理（视频）</strong></div>
     <p>
-    <em>了解如何将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。</em>
+    <em>了解如何可将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。</em>
     <p>
   </td>
   <td>
@@ -72,9 +66,7 @@ ht-degree: 93%
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>连接到SFTP服务器</strong>
-    </a>
-    </div>
+    <strong>连接到 SFTP 服务器</strong></div>
     <p>
     <em>了解如何使用您存储在控制面板中的密钥，通过客户端 SFTP 应用程序连接到 SFTP 服务器。</em>
     <p>

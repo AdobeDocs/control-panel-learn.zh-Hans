@@ -11,14 +11,12 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 TQID: https://experienceleague.adobe.com/86clW-Yx8dYHVgCQUo3eIWiZTckuD1zlVr-AcMbpUgs
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 189
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +31,7 @@ ht-degree: 94%
 
 要在控制面板中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选择器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡> **实例设置**&#x200B;信息卡
+* [Experience Cloud 主页](https://experience.adobe.com/#/home) > 解决方案选择器：**[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡 > **实例设置**信息卡
 或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
@@ -41,6 +39,6 @@ ht-degree: 94%
 
 了解如何将 IP 范围添加到 Adobe Campaign 实例允许列表，以及如何使用控制面板从允许列表中将其删除。
 
->[!VIDEO](https://video.tv.adobe.com/v/31662?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
 
 有关 IP 地址及允许列表的详细信息，请参阅[详细的产品文档](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hans)。

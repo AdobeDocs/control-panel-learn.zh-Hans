@@ -16,9 +16,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 189
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
 
 要在控制面板中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选择器： **[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡> **实例设置**&#x200B;信息卡
+* [Experience Cloud 主页](https://experience.adobe.com/#/home) > 解决方案选择器：**[!DNL Campaign]** > **[!UICONTROL 控制面板]**&#x200B;信息卡 > **实例设置**信息卡
 或者
 * 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 

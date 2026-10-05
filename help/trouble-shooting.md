@@ -9,18 +9,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+TQID: 'https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 353
-ht-degree: 100%
-
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 92%
 ---
-
 # 对[!UICONTROL 控制面板]进行故障排除
 
 ## 登录和主页
@@ -28,7 +34,7 @@ ht-degree: 100%
 ### 症状：无法登录 Experience Cloud
 
 **要做什么：**
-用户须找到其 IMS Org ID (xxx)。管理员须将用户添加到要管理的每个实例的产品配置文件“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+用户须找到其 IMS Org ID (xxx)。 管理员须将用户添加到要管理的每个实例的产品配置文件“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：Experience Cloud 主页中的用于访问[!UICONTROL 控制面板]的链接未向某个用户显示
 
@@ -36,7 +42,7 @@ ht-degree: 100%
 用户只有在被添加为产品配置文件 _Campaign-xxx-Administrators/Admin_ 中的用户后，才会看到这些链接。
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品配置文件 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+管理员须将用户添加到要管理的每个实例的产品配置文件 _Campaign-xxx-Admins_ 中。 如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：实例未在[!UICONTROL 控制面板]中列出
 
@@ -48,13 +54,13 @@ ht-degree: 100%
 
 ### 实用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/34927?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*检查 IMS 组织 ID（00:26 分钟）*
+*检查IMS组织ID（00:26分钟）*
 
->[!VIDEO](https://video.tv.adobe.com/v/34761?captions=chi_hans&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*如何向产品配置文件管理员添加管理员，以便能够使用[!UICONTROL 控制面板]（01:03 分钟）*
+*如何将管理员添加到产品配置文件管理员中，以便能够使用[!UICONTROL 控制面板]（01:03分钟）*
 
 ### 帮助文档
 

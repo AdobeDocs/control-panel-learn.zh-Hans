@@ -11,18 +11,24 @@ role: Admin
 level: Experienced
 recommendations: noDisplay, noCatalog
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-TQID: https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg
+TQID: 'https://experienceleague.adobe.com/5DzK8amd3azK1kPO4--F8ltID-RzAWyUtGtpxvKK-Yg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 259
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '259'
 ht-degree: 100%
-
 ---
-
 # 控制面板教程
 
 通过 Adobe Campaign 控制面板，Adobe Campaign 管理员可监视关键资产并执行管理任务，例如按实例管理 SFTP 存储，管理 GPG 密钥或子域和证书。
@@ -46,7 +52,9 @@ ht-degree: 100%
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>将子域委派到 Adobe Campaign（视频）</strong></div>
+    <strong>将子域委派到 Adobe Campaign（视频）</strong>
+    </a>
+    </div>
     <p>
     <em>了解如何将子域完全委派给 Adobe Campaign。</em>
     <p>
@@ -57,7 +65,9 @@ ht-degree: 100%
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT 记录管理（视频）</strong></div>
+    <strong>Google TXT 记录管理（视频）</strong>
+    </a>
+    </div>
     <p>
     <em>了解如何可将 Google TXT 网站验证记录添加到所有子域，这些子域用于通过 Campaign 控制面板向 Gmail 地址发送电子邮件。</em>
     <p>
@@ -68,7 +78,9 @@ ht-degree: 100%
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>连接到 SFTP 服务器</strong></div>
+    <strong>连接到 SFTP 服务器</strong>
+    </a>
+    </div>
     <p>
     <em>了解如何使用您存储在控制面板中的密钥，通过客户端 SFTP 应用程序连接到 SFTP 服务器。</em>
     <p>

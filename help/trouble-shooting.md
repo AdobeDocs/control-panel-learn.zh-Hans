@@ -54,11 +54,11 @@ ht-degree: 92%
 
 ### 实用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34927?captions=chi_hans&learn=on){transcript=true}
 
 *检查IMS组织ID（00:26分钟）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34761?captions=chi_hans&learn=on){transcript=true}
 
 *如何将管理员添加到产品配置文件管理员中，以便能够使用[!UICONTROL 控制面板]（01:03分钟）*
 

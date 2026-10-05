@@ -51,7 +51,7 @@ Adobe Campaign [!UICONTROL 控制面板]允许您添加 SSL 证书以保护子�
 
 以下视频介绍如何在控制面板中生成证书签名请求。
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35898?captions=chi_hans&learn=on){transcript=true}
 
 *生成证书签名请求（02:36分钟）*
 
@@ -78,7 +78,7 @@ Adobe Campaign [!UICONTROL 控制面板]允许您添加 SSL 证书以保护子�
 
 以下视频介绍如何在[!UICONTROL 控制面板]中安装 SSL 证书。
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35899?captions=chi_hans&learn=on){transcript=true}
 
 *安装SSL证书（01:25分钟）*
 

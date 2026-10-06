@@ -10,18 +10,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
-TQID: https://experienceleague.adobe.com/Fy9FFPLZ0jyHDCj70RHmR7V8AAbO9easSV8fxSrLg0w
+TQID: 'https://experienceleague.adobe.com/Fy9FFPLZ0jyHDCj70RHmR7V8AAbO9easSV8fxSrLg0w'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: '108'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Google TXT 记录]管理
 
 为了保证高收件箱率和低垃圾邮件率，一些诸如 Google 之类的服务要求您将 TXT 记录添加到域设置，以验证您是否拥有该域。 TXT 记录是一种 DNS 记录类型，用于提供有关域的文本信息，外部源可以读取该信息。
